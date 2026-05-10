@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sahil
+# Hi there! 👋 I'm Roohani 
 
 🚀 **Full-Stack Software Developer** | **Open Source Enthusiast** | **Tech Spirited**
 
@@ -86,4 +86,4 @@ If you find my projects helpful, please consider:
 
 ---
 
-**Made with ❤️ by Sahil**
+**Made with ❤️ by Rooh**
