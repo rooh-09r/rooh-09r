@@ -58,9 +58,9 @@ An AI-powered traffic intelligence dashboard built with modern web technologies.
 
 ## 📫 Get In Touch
 
-- 💼 **LinkedIn:** [linkedin.com/in/sahil](https://linkedin.com/in/sahil)
+- 💼 **LinkedIn:** www.linkedin.com/in/roohani-pupneja-b5a245332
 - 🐦 **Twitter:** [@sahil](https://twitter.com/sahil)
-- 📧 **Email:** [sahilsrivastw3@gmail.com](mailto:sahilsrivastw3@gmail.com)
+- 📧 **Email:** Pupnejaroohani@gmail.com
 - 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
 - 📝 **Blog:** [your-blog.com](https://your-blog.com)
 
