@@ -45,6 +45,14 @@ An AI-powered traffic intelligence dashboard built with modern web technologies.
 
 [View Project](https://github.com/rooh-09r) | [Live Demo](#)
 
+### 🔗AI-Augmented Ransomware Detection (Research Paper) 
+
+• Detects Ransomware in system or application using Perplexity API and classifies threats in real-time. 
+• Published on (IEEE Xplore). 
+• Automatically defines the ransomware type and cure using VirusTotal API. 
+
+[View Research Paper](https://ieeexplore.ieee.org/document/11467280)
+
 ---
 
 ## 💡 What I'm Learning
