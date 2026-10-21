@@ -60,7 +60,7 @@ An AI-powered traffic intelligence dashboard built with modern web technologies.
 
 - 💼 **LinkedIn:** www.linkedin.com/in/roohani-pupneja-b5a245332
 - 📧 **Email:** Pupnejaroohani@gmail.com
-- 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+
 
 
 ---
